@@ -26,7 +26,7 @@
     Ubicacion = "Maule, Chile",
     Idiomas = "Español (nativo), ingles (Intermedio)",
     Especializaciones = "Front End, Desarrollo de Aplicaciones Webs",
-    Intereses en TI= "Diseño, Resolucion de Problemas",
+    InteresesEnTI= "Diseño, Resolucion de Problemas",
     Hobbies = "Dibujar, Escribir, Crear Contenido Para Redes Sociales",
     Formación = "Full Stack Java, Kibernum",
     Accesible = "Asi es, si tienes un proyecto interesante no dudes en contactarme",
