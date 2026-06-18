@@ -1,16 +1,161 @@
-## Hi there 👋
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<!--
-**natanaelNPX/natanaelNPX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="center"> <img src="https://avatars.githubusercontent.com/u/244848606?v=4" alt="Profile count" /> </p> -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.imgur.com/XfFiZxH.png">
+<details>
+<summary>REVELAR PERFIL</summary>
+
+[comment]: <> (View Counter)
+<br>
+<div>
+  <div align=center>
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://avatars.githubusercontent.com/u/244848606?v=4" alt="Avatar photo of Nathanael Peña">
+  </div>
+</div>
+
+<details>
+<summary>Sobre Mi</summary>
+
+[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+
+<div align="left">
+
+```js
+
+@constructor(
+    Ubicacion = "Maule, Chile",
+    Idiomas = "Español (nativo), ingles (Intermedio)",
+    Especializaciones = "Front End, Desarrollo de Aplicaciones Webs",
+    Intereses en TI= "Diseño, Resolucion de Problemas",
+    Hobbies = "Dibujar, Escribir, Crear Contenido Para Redes Sociales",
+    Formación = "Full Stack Java, Kibernum",
+    Accesible = "Asi es, si tienes un proyecto interesante no dudes en contactarme",
+    Fortalezas = "Objetividad, Resolutivo, Proyeccion, Liderazgo, Organizado",
+    Debilidades = "Objetividad, Franqueza, Detallista, Oratoria en Desarrollo",
+) 
+```
+
+</div>
+
+</details>
+
+<details>
+<summary>Herramientas</summary>
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Lenguajes de Programacion</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+    </kbd>
+    <kbd>
+      <kbd>Back-end</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Front-end</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>Manejo en IA's</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chatgpt.png" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-gemini.png" />
+    </kbd>
+    <!--
+    <kbd>
+      <kbd>System, Networking & Deployment</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Terminal Scripts</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    </kbd>
+        -->
+    <kbd>
+      <kbd>Tools</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/notion.svg"/>
+  </kbd>
+  </p>
+</div>
+</details>
+
+<details>
+  <summary>Cita</summary>
+  <br>
+  One of my favourite quotes
+  <blockquote>
+    “¿Puedo decir algo? Bueno, soy de esas personas que, si me haces una pregunta y no sé la respuesta, te diré que no la sé. Pero te aseguro que sé cómo encontrarla, y la encontraré.”
+    <br><strong>Chris Gardner interpretado por Will Smith en la pelicula  "En Busqueda de la Felicidad" (2006)</strong>
+  </blockquote>
+</details>
+
+<details>
+<summary>Que puedo hacer por ti?</summary>
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
+## Trabajemos Juntos!
+
+Si tienes interes en colaborar puedes hacerlo mediante <a href="natanaelnpx@gmail.com">contactame sin dramas</a>, No muerdo, lo prometo..
+
+  </td>
+  <td width="50%" valign="top">
+
+## Nada es perfecto.
+
+
+<blockquote>“Creo que es muy importante tener un ciclo de retroalimentación, donde uno piensa constantemente en lo que ha hecho y cómo podría mejorarlo."</blockquote>
+
+  </td>
+  </tr>
+</table>
+</details>
+
+<div align=center>
+    <a href="mailto:natanaelnpx@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  <a href="https://www.linkedin.com/in/natanael-pe%C3%B1a-g1124/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/NathGamArt"> <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)"></a>
+</div>
+
+
+</details>
+
+<img src="https://i.imgur.com/35MO2LW.png">
+
+</div>
+
