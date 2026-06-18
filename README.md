@@ -10,16 +10,13 @@
 
 [comment]: <> (View Counter)
 <br>
-    <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://avatars.githubusercontent.com/u/244848606?v=4" alt="Avatar photo of Nathanael Peña" align=center>
+    <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://i.imgur.com/FLdz14e.png" alt="Avatar photo of Nathanael" align=center>
     
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Opes+One&weight=500&size=30&duration=3500&pause=5000&color=00F74C&center=true&vCenter=true&repeat=false&width=435&lines=Natanael+Pe%C3%B1a+G.)](https://git.io/typing-svg)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"> 
 
-<details>
 
 <summary>Sobre Mi</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
 <div align="left">
 
@@ -40,9 +37,6 @@
 
 </div>
 
-</details>
-
-<details>
 <summary>Herramientas</summary>
 <div>
   <p style="display: inline-block;" align="center">
@@ -111,15 +105,11 @@
   </kbd>
   </p>
 </div>
-</details>
 
 <details>
-  <summary>Cita</summary>
-  <br>
-  One of my favourite quotes
+  <summary>Pequeña Historia</summary>
   <blockquote>
-    “¿Puedo decir algo? Bueno, soy de esas personas que, si me haces una pregunta y no sé la respuesta, te diré que no la sé. Pero te aseguro que sé cómo encontrarla, y la encontraré.”
-    <br><strong>Chris Gardner interpretado por Will Smith en la pelicula  "En Busqueda de la Felicidad" (2006)</strong>
+    En uno de los peores dias que he tenido me senté con un amigo a comer e intente darme animos diciendo "Lo mejor que que te puede pasar en un dia, es tener un mal dia" algo ridiculo objetivamente, pero mi amigo me respondio algo totalmente diferente a lo que pensaba, y desde entonces le menciono la frase a algunas personas para saber cual es su interpretacion. Si tienes una interpretacion interesante me gustaria saberlo ;)
   </blockquote>
 </details>
 
